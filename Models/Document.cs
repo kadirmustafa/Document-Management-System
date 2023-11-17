@@ -27,26 +27,10 @@ namespace DemoDMS.Models
         public string? FilePath { get; set; }
 
         public string? FileType { get; set; }
-        
-        public string? AuthorName { get; set; }
-
-        public string? SupervisorName { get; set; }      
-
-        public Level Level { get; set; }
-
-        public Department Department { get; set; }
-
-        public Faculty Faculty { get; set; }
-        
+   
         [DataType(DataType.DateTime)]
         public DateTime PublicationDate { get; set; }
 
         public int ParentId {get; set;}
     }
-
-    public enum Level {کارشناسی, ارشد, دکترا}
-
-    public enum Department {فنی, ادبیات, علوم}
-
-    public enum Faculty {برق, کامپیوتر}
 }

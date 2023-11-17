@@ -92,7 +92,7 @@ namespace DemoDMS.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(List<IFormFile> files, String name, String authorName, string supervisorName, Level level, Department department, Faculty faculty, DateTime publicationDate, int parentId)
+        public async Task<IActionResult> Create(List<IFormFile> files, String name, DateTime publicationDate, int parentId)
         {
             foreach(var file in files)
             {
@@ -127,11 +127,6 @@ namespace DemoDMS.Controllers
                     FileType = file.ContentType,
                     Extension = extension,
                     Size = file.Length,
-                    AuthorName = authorName,
-                    SupervisorName = supervisorName,
-                    Level = level,
-                    Department = department,
-                    Faculty = faculty,
                     PublicationDate = publicationDate,
                     ParentId = parentId
                     //PublicationDate = new DateTimeOffset(publicationYear, publicationMonth, publicationDay, 0, 0, 0, offset),
@@ -169,7 +164,7 @@ namespace DemoDMS.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, List<IFormFile> files, String name, String authorName, string supervisorName, Level level, Department department, Faculty faculty, DateTimeOffset publicationDate, int parentId)
+        public async Task<IActionResult> Edit(int id, List<IFormFile> files, String name, String authorName, DateTimeOffset publicationDate, int parentId)
         {
         
             if(id == null || _context.Document == null)
@@ -202,7 +197,6 @@ namespace DemoDMS.Controllers
                 }
 
                 document.Name = name;
-                document.AuthorName = authorName;
 
                 if(!isEmpty)
                 {

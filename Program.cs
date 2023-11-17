@@ -6,8 +6,7 @@ using DemoDMS.Data;
 using System.Globalization;
 
 CultureInfo.DefaultThreadCurrentCulture
-= CultureInfo.DefaultThreadCurrentUICulture
-= PersianDateExtensionMethods.GetPersianCulture();
+= CultureInfo.DefaultThreadCurrentUICulture;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<DemoDMSContext>(options =>
@@ -16,8 +15,8 @@ builder.Services.AddDbContext<DemoDMSContext>(options =>
 builder.Services.AddPortableObjectLocalization();
 
 builder.Services.Configure<RequestLocalizationOptions>(options => options
-        .AddSupportedCultures("fa")
-        .AddSupportedUICultures("fa"));
+        .AddSupportedCultures("en")
+        .AddSupportedUICultures("en"));
 
 builder.Services.AddMvc().AddViewLocalization();
 

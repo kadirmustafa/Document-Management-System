@@ -1,179 +1,179 @@
 msgid "DemoDMS"
-msgstr "سامانه‌ی آرشیو پایان‌نامه"
+msgstr "Dissertation archive system"
 
 msgid "Documents"
-msgstr "اسناد"
+msgstr "documents"
 
 msgid "Document"
-msgstr "سند"
+msgstr "document"
 
 msgid "Home Page"
-msgstr "صفحه اصلی"
+msgstr "Home"
 
-msgid "Document Managment System"
-msgstr "سامانه‌ی آرشیو پایان‌نامه"
+msgid "Document Management System"
+msgstr "Dissertation archive system"
 
 msgid "A system made for storing, editing, searching and downloading files"
-msgstr "سامانه‌ای برای ذخیره‌سازی، ویرایش، جستجو و دانلود پایان‌نامه"
+msgstr "A system for storing, editing, searching and downloading thesis"
 
 msgid "By: M.Ali.A and M.Parsa.T"
-msgstr "کاری از محمدپارسا توپچی‌نژاد و محمدعلی آقایانی"
+msgstr "Work by Mohammad Parsa Topchinejad and Mohammad Ali Aghaani"
 
 msgid "Edit and Download"
-msgstr "ویرایش و دانلود"
+msgstr "edit and download"
 
 msgid "Edit and view files and document data with just a few clicks. Using the action buttons you can easily delete or download any document."
-msgstr "فایل‌ها و مشخصات آن‌ها را تنها با چند کلیک مشاهده و ویرایش کنید. با استفاده از دکمه‌های روبه‌روی هر سند، می توان به راحتی عملیات‌های حذف کردن یا دانلود کردن را انجام داد."
+msgstr "View and edit files and their details with just a few clicks. Using the buttons in front of each document, you can easily delete or download."
 
 msgid "Keep Your Files Organized"
-msgstr "نظم‌دهی به فایل‌ها"
+msgid "Organize files"
 
 msgid "Electronic document storage increases productivity and security, while reducing costs and human error. Using a DMS can improve file accessibility and keeps everything nice and tidy."
-msgstr "ذخیره سازی الکترونیکی اسناد، بهره وری و امنیت آن‌ها را افزایش و در عین حال هزینه ها و خطای انسانی را کاهش می‌دهد. استفاده از سامانه‌ی مدیریت اسناد می‌تواند دسترسی به فایل‌ها را بهبود بخشیده و همه چیز را زیبا و مرتب نگه دارد."
+msgstr "Electronic storage of documents increases their productivity and security while reducing costs and human error. Using a document management system can improve access to files and keep everything neat and tidy."
 
 msgid "Search and Sort"
-msgstr "جستجو و مرتب‌سازی"
+msgstr "Search and sort"
 
-msgid "Search through files to increase accessibility. Click any column to sort all documents by that paramater. You can sort both in ascending and descending order."
-msgstr "امکان جستجو دسترسی به فایل‌ها را  افزایش می‌دهد. با کلیک روی عنوان هر ستون، همه‌ی اسناد بر اساس آن ویژگی مرتب می‌شوند. با استفاده از این قابلیت می‌توان اسناد را به هر دو حالت صعودی و نزولی مرتب کرد."
+msgid "Search through files to increase accessibility. Click any column to sort all documents by that parameter. You can sort both in ascending and descending order."
+msgstr "The search feature increases access to files. By clicking on the title of each column, all documents will be sorted according to that feature. Using this feature, documents can be sorted both in ascending and descending order."
 
 msgid "View Documents"
-msgstr "ورود به سامانه"
+msgstr "login"
 
 msgid "Index"
-msgstr "فهرست"
+msgstr "list"
 
 msgid "Edit"
-msgstr "ویرایش"
+msgstr "edit"
 
 msgid "Save"
-msgstr "ذخیره"
+msgid "Save"
 
 msgid "Delete"
-msgstr "حذف"
+msgstr "delete"
 
 msgid "Are you sure you want to delete this?"
-msgstr "آیا از حذف این مورد اطمینان دارید؟"
+msgstr "Are you sure you want to delete this item?"
 
 msgid "Details"
-msgstr "جزییات"
+msgstr "details"
 
 msgid "Create"
-msgstr "ایجاد"
+msgid "create"
 
 msgid "Download"
-msgstr "دانلود"
+msgstr "Download"
 
 msgid "Return"
-msgstr "بازگشت"
+msgstr "return"
 
 msgid "Create New"
-msgstr "ایجاد سند جدید"
+msgstr "Create new document"
 
 msgid "Actions"
-msgstr "عملیات‌"
+msgstr "Operation"
 
 msgid "Search"
-msgstr "جستجو"
+msgstr "Search"
 
 msgid "Name"
-msgstr "نام"
+msgstr "name"
 
 msgid "Extension"
-msgstr "پسوند"
+msgstr "extension"
 
 msgid "UserName"
-msgstr "نام کاربر"
+msgstr "username"
 
 msgid "User Name"
-msgstr "نام کاربر"
+msgstr "username"
 
 msgid "Category"
-msgstr "دسته‌بندی"
+msgid "category"
 
 msgid "DateUpload"
-msgstr "تاریخ آپلود"
+msgstr "upload date"
 
 msgid "Date Upload"
-msgstr "تاریخ آپلود"
+msgstr "upload date"
 
 msgid "DateCreated"
-msgstr "تاریخ ایجاد"
+msgstr "created date"
 
 msgid "Date Created"
-msgstr "تاریخ ایجاد"
+msgstr "created date"
 
 msgid "DateModified"
-msgstr "تاریخ اصلاح"
+msgstr "Revision date"
 
 msgid "Date Modified"
-msgstr "تاریخ اصلاح"
+msgstr "Revision date"
 
 msgid "Size"
-msgstr "حجم"
+msgid "volume"
 
 msgid "File"
-msgstr "فایل"
+msgstr "file"
 
 msgid "FileType"
-msgstr "تیپ فایل"
+msgstr "File type"
 
 msgid "File Type"
-msgstr "تیپ فایل"
+msgstr "File type"
 
 msgid "FilePath"
-msgstr "آدرس فایل"
+msgstr "file address"
 
 msgid "File Path"
-msgstr "آدرس فایل"
+msgstr "file address"
 
 msgid "Management"
-msgstr "مدیریت"
+msgstr "Management"
 
 msgid "Financial"
-msgstr "مالی"
+msgstr "Financial"
 
 msgid "General"
-msgstr "عمومی"
+msgstr "public"
 
 msgid "Security"
-msgstr "حراست"
+msgstr "guard"
 
 msgid "AuthorName"
-msgstr "نام نویسنده"
+msgstr "author's name"
 
 msgid "Author Name"
-msgstr "نام نویسنده"
+msgstr "author's name"
 
 msgid "SupervisorName"
-msgstr "نام استاد راهنما"
+msgstr "name of instructor"
 
 msgid "Supervisor Name"
-msgstr "نام استاد راهنما"
+msgstr "name of instructor"
 
 msgid "Level"
-msgstr "مقطع"
+msgstr "section"
 
 msgid "Department"
-msgstr "دانشکده"
+msgstr "University"
 
 msgid "Faculty"
-msgstr "گروه"
+msgstr "group"
 
 msgid "PublicationDate"
-msgstr "تاریخ انتشار"
+msgstr "Publish date"
 
 msgid "Publication Date"
-msgstr "تاریخ انتشار"
+msgstr "Publish date"
 
 msgid "Folder"
-msgstr "پوشه"
+msgstr "folder"
 
 msgid "Folders"
-msgstr "پوشه‌ها"
+msgid "folders"
 
 msgid "New Folder"
-msgstr "پوشه‌ی جدید"
+msgstr "new folder"
 
 msgid "New Document"
-msgstr "سند جدید"
+msgstr "New document"
