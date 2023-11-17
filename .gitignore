@@ -24,8 +24,8 @@ x64/
 x86/
 build/
 bld/
-bin/
-obj/
+**/bin/*
+**/obj/*
 packages
 msbuild.log
 msbuild.err
